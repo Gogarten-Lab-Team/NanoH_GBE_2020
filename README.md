@@ -1,2 +1,2 @@
 # NanoH_GBE_2020
-Repository for scripts 
+Interactive Jupyter Notebook to calculate gene family distances
